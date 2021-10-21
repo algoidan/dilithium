@@ -1,4 +1,4 @@
-module github.com/algorand/dilithium
+module github.com/algoidan/dilithium
 
 go 1.14
 
